@@ -1,4 +1,5 @@
 ## The functions below are used to create a special object which stores a matrix and caches its inverse.
+
 ## This function, makeCacheMatrix creates a special “matrix”, which is a list containing a function to:
 ##1. set the value of the matrix
 ##2. get the value of the matrix
